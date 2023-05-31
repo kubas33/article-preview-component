@@ -41,6 +41,7 @@ article img {
     max-height: 12rem;
     overflow: hidden;
     object-fit: cover;
+    object-position: left;
 }
 
 section.text > *{
