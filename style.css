@@ -157,7 +157,7 @@ footer .share span {
     article {
         display: grid;
         grid-template-columns: .6fr 1fr;
-        max-width: 50rem;
+        max-width: 55rem;
         overflow: visible;
         width: 80%;
     }
